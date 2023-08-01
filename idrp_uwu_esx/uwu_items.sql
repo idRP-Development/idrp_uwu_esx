@@ -1,0 +1,20 @@
+INSERT INTO `items` (`name`, `label`, `weight`, `rare`, `can_remove`) VALUES
+	('uwu_btea',		'uWu Bubble Tea', 1, 0, 1),
+	('uwu_cookie',		'uWu Cookie', 1, 0, 1),
+	('uwu_cookie_cc',	'uWu Choc Chip Cookie', 1, 0, 1),
+	('uwu_cup_straw',	'uWu Medium Drink', 1, 0, 1),
+	('uwu_cupcake',		'uWu Cup Cake', 1, 0, 1),
+	('uwu_eggroll',		'uWu Egg Roll', 1, 0, 1),
+	('uwu_gdasik',		'uWu Green Dasik', 1, 0, 1),
+	('uwu_lrg_drink',	'uWu Large Drink', 1, 0, 1),
+	('uwu_mug',			'uWu Matcha Tea', 1, 0, 1),
+	('uwu_pastry',		'uWu Pastry', 1, 0, 1),
+	('uwu_pdasik',		'uWu Pink Dasik', 1, 0, 1),
+	('uwu_salad_bowl',	'uWu Buddha Bowl', 1, 0, 1),
+	('uwu_salad_spoon',	'uWu Spoon', 1, 0, 1),
+	('uwu_sandy',		'uWu Icecream Sandy', 1, 0, 1),
+	('uwu_sml_drink',	'uWu Small Drink', 1, 0, 1),
+	('uwu_sushi',		'uWu Sushi', 1, 0, 1),
+	('uwu_ramen_bowl',	'uWu Ramen', 1, 0, 1),
+	('uwu_chopstick',	'uWu Chopsticks', 1, 0, 1)
+;
